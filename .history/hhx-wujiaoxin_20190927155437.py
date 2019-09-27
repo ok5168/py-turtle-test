@@ -57,7 +57,7 @@ tt.left(-15)
 wujiaoxin(yihengge*2)
 
 tt.goto(yihengge*-4,yishuge*3.2)
-tt.left(-15)
+tt.left(-20)
 wujiaoxin(yihengge*2)
 
 tt.goto(yihengge*-6,yishuge*1.5)

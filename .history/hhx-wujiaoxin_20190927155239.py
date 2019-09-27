@@ -49,15 +49,15 @@ wujiaoxin(yihengge*6)
 
 tt.speed(0)
 tt.goto(yihengge*-6,yishuge*8.5)
-tt.left(8)
+tt.left(-8)
 wujiaoxin(yihengge*2)
 
 tt.goto(yihengge*-4,yishuge*6)
-tt.left(-15)
+tt.left(-25)
 wujiaoxin(yihengge*2)
 
 tt.goto(yihengge*-4,yishuge*3.2)
-tt.left(-15)
+tt.left(-25)
 wujiaoxin(yihengge*2)
 
 tt.goto(yihengge*-6,yishuge*1.5)
