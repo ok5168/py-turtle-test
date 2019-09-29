@@ -23,6 +23,8 @@ def wujiaoxin(daxiao):
     '''第一种方法  '''
     tt.down()
     tt.color( "yellow","yellow")
+
+    
     tt.begin_fill()
     for i in range(5):
         tt.fd(daxiao)
