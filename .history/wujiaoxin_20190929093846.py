@@ -24,7 +24,7 @@ def wujiaoxin(daxiao):
     tt.down()
     tt.color( "yellow","yellow")
 
-    # ggggggggg
+    
     tt.begin_fill()
     for i in range(5):
         tt.fd(daxiao)
